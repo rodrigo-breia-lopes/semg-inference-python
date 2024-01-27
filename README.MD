@@ -6,7 +6,7 @@ To use the repo, do the following:
 
 - Clone the repo
 ```
-git clone 
+git clone https://github.com/rodrigo-breia-lopes/semg-inference-python.git
 ```
 
 - Go to the repo directory
